@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    overflow: hidden; /* 스크롤바 제거 */
+    background-color: #f0f0f0; /* 배경색 설정 */
+}
+
+#viewer-container {
+    width: 100vw;
+    height: 100vh;
+}
