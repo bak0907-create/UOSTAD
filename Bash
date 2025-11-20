@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial STL viewer setup"
+git branch -M main
+git remote add origin [당신의 GitHub 저장소 URL]
+git push -u origin main
